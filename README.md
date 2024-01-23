@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Python-E56F08?style=for-the-badge&logo=python&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/C#-E56F08?style=for-the-badge&logo=c#&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/C++-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
 
 
