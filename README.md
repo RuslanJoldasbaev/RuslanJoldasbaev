@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m RuslanJoldasbaev
-- 💻 Android Developer
+- 💻 Flutter and Android Developer
 
 <!---
 RuslanJoldasbaev/RuslanJoldasbaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
