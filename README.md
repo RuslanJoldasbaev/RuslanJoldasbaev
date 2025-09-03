@@ -8,12 +8,14 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻  Main tech knowledge
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=white)
 
 ## 👨‍💻  Programming languages
 
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Dart-8382E3?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Python-E56F08?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/C++-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
 
