@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=RuslanJoldasbaev&count_private=true&show_icons=true&theme=tokyonight" /><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanJoldasbaev&theme=tokyonight" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanJoldasbaev&layout=compact&theme=tokyonight&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanJoldasbaev&layout=compact&theme=tokyonight&langs_count=20" />
